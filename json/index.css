@@ -1,0 +1,81 @@
+h1{
+    margin-left: 38%;
+    font-family: 'product sans';
+    color: rgb(56, 31, 22);
+    margin-top: 1%;
+}
+select{
+    width: 20%;
+    margin-left: 30%;
+    font-family: 'product sans';
+    margin-top: 5%;
+    outline: none;
+    background: rgb(145, 218, 209);
+    border:none;
+    padding: 7px;
+    color: rgb(58, 51, 51);
+}
+
+select option{
+    background: rgb(85, 35, 54);
+    color: white;
+    border: none;
+    outline: none;
+}
+
+option:hover{
+    background: blue;
+}
+
+button{
+    width: 20%;
+    padding: 7px;
+    color: antiquewhite;
+    font-family: 'product sans';
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    transition: .5s;
+    background-color: crimson;
+    margin-top: 5%;
+}
+
+button:hover{
+    background-color: darkblue;
+    transition: .5s;
+}
+
+h3{
+    font-family: 'product sans';
+    color: rgb(235, 150, 150);
+    font-weight: lighter;
+    margin-left: 38%;
+    margin-top: 2%;
+}
+
+.tb{
+    display: none;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 28.8%;
+    font-family: 'product sans';
+    margin-top: 10%;
+}
+
+table th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 7px;
+    width: 100px;
+}
+
+table td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 7px;
+    width: 100px;
+}
