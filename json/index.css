@@ -58,7 +58,7 @@ h3{
 }
 
 table{
-    border: 1px solid black;
+    border: 0.5px solid rgb(223, 193, 193);
     border-collapse: collapse;
     margin-left: 28.8%;
     font-family: 'product sans';
@@ -66,14 +66,16 @@ table{
 }
 
 table th{
-    border: 1px solid black;
+    border:0.5px solid rgb(171, 195, 211);
     border-collapse: collapse;
+    color: rgb(241, 236, 229);
+    background-color: blueviolet;
     padding: 7px;
     width: 100px;
 }
 
 table td{
-    border: 1px solid black;
+    border: 0.5px solid rgb(223, 193, 193);
     border-collapse: collapse;
     text-align: center;
     padding: 7px;
