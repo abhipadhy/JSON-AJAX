@@ -1,4 +1,4 @@
 # JSON-AJAX
 
 INSTRUCTIONS:
-  > RUN THE FOLLOWING CODE IN A SERVER FOR A VALID AJAX REQUEST .
+  > Run the following code in a server for a valid AJAX request. .
